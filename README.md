@@ -1,2 +1,2 @@
 # Inventory-Management-System
-A system made with microsoft Access to track records of how computers are booked in an organisation
+Senda is an inventory management system made with microsoft Access to track records of how computers are booked in an organisation
